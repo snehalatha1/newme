@@ -1,5 +1,4 @@
 #git ignore files
 *.class
-*.settings
+*.settings/
 *.project
-/build/
